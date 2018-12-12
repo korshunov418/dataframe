@@ -1,0 +1,13 @@
+home_teamhome team
+away_teamaway team
+home_goalsnumber of goals scored by the home team
+away_goalsnumber of goals scored by the away team
+resultwinner of the match (H for home team, A for away team, D for draw)
+seasonseason in which the match took place
+
+Хозяева
+Гости
+Забитых Х
+Забитых Г
+H - победили хозяева \ А - победили гости \ D - Ничья
+Сезон
